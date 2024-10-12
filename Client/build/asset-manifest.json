@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Memory-App-Frontend/static/css/main.2a148580.css",
+    "main.js": "/Memory-App-Frontend/static/js/main.34776aa8.js",
+    "static/js/386.922af25e.chunk.js": "/Memory-App-Frontend/static/js/386.922af25e.chunk.js",
+    "static/js/100.feb8b905.chunk.js": "/Memory-App-Frontend/static/js/100.feb8b905.chunk.js",
+    "static/js/490.48314435.chunk.js": "/Memory-App-Frontend/static/js/490.48314435.chunk.js",
+    "static/js/14.ff66efb8.chunk.js": "/Memory-App-Frontend/static/js/14.ff66efb8.chunk.js",
+    "static/js/245.4f490a6b.chunk.js": "/Memory-App-Frontend/static/js/245.4f490a6b.chunk.js",
+    "static/js/150.e08770f1.chunk.js": "/Memory-App-Frontend/static/js/150.e08770f1.chunk.js",
+    "static/js/160.6cacc802.chunk.js": "/Memory-App-Frontend/static/js/160.6cacc802.chunk.js",
+    "static/js/971.9440035b.chunk.js": "/Memory-App-Frontend/static/js/971.9440035b.chunk.js",
+    "static/js/52.65d37f01.chunk.js": "/Memory-App-Frontend/static/js/52.65d37f01.chunk.js",
+    "index.html": "/Memory-App-Frontend/index.html",
+    "main.2a148580.css.map": "/Memory-App-Frontend/static/css/main.2a148580.css.map",
+    "main.34776aa8.js.map": "/Memory-App-Frontend/static/js/main.34776aa8.js.map",
+    "386.922af25e.chunk.js.map": "/Memory-App-Frontend/static/js/386.922af25e.chunk.js.map",
+    "100.feb8b905.chunk.js.map": "/Memory-App-Frontend/static/js/100.feb8b905.chunk.js.map",
+    "490.48314435.chunk.js.map": "/Memory-App-Frontend/static/js/490.48314435.chunk.js.map",
+    "14.ff66efb8.chunk.js.map": "/Memory-App-Frontend/static/js/14.ff66efb8.chunk.js.map",
+    "245.4f490a6b.chunk.js.map": "/Memory-App-Frontend/static/js/245.4f490a6b.chunk.js.map",
+    "150.e08770f1.chunk.js.map": "/Memory-App-Frontend/static/js/150.e08770f1.chunk.js.map",
+    "160.6cacc802.chunk.js.map": "/Memory-App-Frontend/static/js/160.6cacc802.chunk.js.map",
+    "971.9440035b.chunk.js.map": "/Memory-App-Frontend/static/js/971.9440035b.chunk.js.map",
+    "52.65d37f01.chunk.js.map": "/Memory-App-Frontend/static/js/52.65d37f01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a148580.css",
+    "static/js/main.34776aa8.js"
+  ]
+}

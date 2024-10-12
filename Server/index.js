@@ -37,10 +37,10 @@ app.use((error, req, res, next) => {
   });
 });
 
-app.use(express.static(path.join(__dirname, "/Client/dist")));
+app.use(express.static(path.join(__dirname, "/Client/build")));
 
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "frontend", "dist", "index.html"));
+  res.sendFile(path.join(__dirname, "Client", "build", "index.html"));
 });
 
 app.listen(process.env.PORT || 5000, () => {

@@ -8,6 +8,8 @@ const memoriesRouter = require("./routes/memories.route");
 const usersRouter = require("./routes/users.route");
 const httpStatusText = require("./utils/httpStatusText");
 
+const __dirname = path.resolve();
+
 const app = express();
 
 app.use("/uploads", express.static("uploads"));

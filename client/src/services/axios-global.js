@@ -3,7 +3,7 @@ import axios from "axios";
 let token = localStorage.getItem("token") || null;
 
 const API = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://memories-app-mern-stack.onrender.com/",
   headers: {
     Authorization: `Bearer ${token}`,
   },

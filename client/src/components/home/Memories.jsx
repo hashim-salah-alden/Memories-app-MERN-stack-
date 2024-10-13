@@ -15,7 +15,7 @@ const MemoriesContainer = () => {
   const { memories } = useGetMemories();
 
   return (
-    <div className="flex py-8 grow">
+    <div className="flex py-8 grow justify-center" >
       <div className="memory-container flex flex-wrap justify-around lg:justify-evenly gap-y-8 lg:gap-8  sm:w-full xl:w-full  ">
         {displayedMemories?.map((memory) => {
           return (

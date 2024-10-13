@@ -51,7 +51,7 @@ const Search = () => {
 
 
   return (
-    <div className="flex justify-between items-center">
+    <div className="flex justify-between items-center gap-2">
       <form onSubmit={handleSearch}>
         <label className="input input-bordered flex items-center gap-2 bg-[#1f3395]">
           <input

@@ -1,6 +1,5 @@
 {
-  "name": "ffront-end",
-  "homepage": "https://hashim-salah-alden.github.io/Memory-App-Frontend",
+  "name": "memories-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

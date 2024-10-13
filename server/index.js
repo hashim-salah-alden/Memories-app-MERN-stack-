@@ -8,7 +8,7 @@ const memoriesRouter = require("./routes/memories.route");
 const usersRouter = require("./routes/users.route");
 const httpStatusText = require("./utils/httpStatusText");
 
-const __dirname = path.resolve();
+const __variableOfChoice = path.resolve();
 
 const app = express();
 
@@ -39,10 +39,10 @@ app.use((error, req, res, next) => {
   });
 });
 
-app.use(express.static(path.join(__dirname, "/client/build")));
+app.use(express.static(path.join(__variableOfChoice, "/client/build")));
 
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "client", "build", "index.html"));
+  res.sendFile(path.join(__variableOfChoice, "client", "build", "index.html"));
 });
 
 app.listen(process.env.PORT || 5000, () => {
